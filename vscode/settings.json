@@ -17,7 +17,6 @@
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
   },
-  "terminal.integrated.cwd": "C:\\Users\\deepRed\\Desktop\\Projects",
   "vim.disableExtension": true,
   "python.jediEnabled": false,
   "editor.formatOnSave": true,
