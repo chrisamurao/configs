@@ -1,0 +1,30 @@
+{
+  "workbench.colorTheme": "Monokai",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "workbench.activityBar.visible": false,
+  "liveServer.settings.port": 7777,
+  "python.pythonPath": "C:\\Python36\\python3.exe",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.zoomLevel": 0,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "[sql]": {},
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "terminal.integrated.cwd": "C:\\Users\\deepRed\\Desktop\\Projects",
+  "vim.disableExtension": true,
+  "python.jediEnabled": false,
+  "editor.formatOnSave": true,
+  "python.linting.pylintEnabled": true,
+  "python.formatting.provider": "black",
+  "[python]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  }
+}
